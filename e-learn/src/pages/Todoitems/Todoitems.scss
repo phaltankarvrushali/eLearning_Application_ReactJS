@@ -1,0 +1,62 @@
+// To do Items added
+.App {
+    
+    
+}
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+.App-link {
+    color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+li{
+    
+    margin: 10px;
+    width:400px;
+    color: green
+   
+}
+
+.leftpos{
+    left: 50px;
+    position: relative;
+    font-weight: bolder;
+    border: 3px solid green;
+    align-items: center;
+    width: 500px;
+    
+}
+
+button{
+    color: darkgreen;
+    background-color: lightgreen;
+    font-size: large;
+    font-weight: bold;
+}
+
+.buttonstyle{
+    position: relative;
+    left: 50px;
+    
+    
+}
+
+.titleHeading{
+    font-size: large;
+    font-weight: bold;
+
+}

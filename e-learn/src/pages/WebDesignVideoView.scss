@@ -1,0 +1,35 @@
+.grid-container{
+   
+    display: grid;
+    
+
+    padding: 90px ;
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(to right, #f5f6fa, #90b9ff);
+    margin-left: -300px;
+    padding-top: 20px;
+    width: 1200px;
+    
+  }
+  
+  .bg-container{
+    display: grid;
+
+    background-color: rgb(255, 255, 255) ;
+    padding: 90px ;
+    color: rgb(255, 255, 255);
+    border: 1px solid blanchedalmond;
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(to right, #f0f2f7, #90b9ff);
+    padding-right: 10px;  
+  }
+
+  h1{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding: 0%;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+
+  }

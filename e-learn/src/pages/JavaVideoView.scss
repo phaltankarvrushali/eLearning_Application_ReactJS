@@ -1,0 +1,30 @@
+.grid-container{
+   
+  display: grid;
+  
+
+  padding: 90px ;
+  color: rgb(255, 255, 255);
+  font-family: 'Montserrat', sans-serif;
+  background: linear-gradient(to right, #6190e8, #90b9ff);
+  margin-left: -300px;
+  padding-top: 20px;
+  width: 3px;
+  
+}
+
+.bg-container{
+  display: flexbox;
+  background-color: rgb(255, 255, 255) ;
+  padding: 90px ;
+  color: rgb(255, 255, 255);
+  border: 1px solid blanchedalmond;
+  font-family: 'Montserrat', sans-serif;
+  background: linear-gradient(to right, #6190e8, #a7bfe8); 
+  padding-right: 10px;  
+}
+
+h1{
+  font-size: 40px;
+  text-align: center;
+}

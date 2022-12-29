@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "react-redux": "^8.0.5",
+    "react-simple-star-rating": "^5.1.7"
+  }
+}
